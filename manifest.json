@@ -1,17 +1,32 @@
 {
-  "background_color": "#0f172a",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "MDX POOL -8Ball Pool",
-  "orientation": "landscape",
-  "scope": "/Mohammed/",
-  "short_name": "MDX POOL",
-  "start_url": "/Mohammed/",
-  "theme_color": "#0f172a",
   "id": "/Mohammed/",
-  "description": "MDX POOL est un jeu de billard américain 8 ball Pool avec des graphismes réalistes , une physique fluide et une intelligence artificielle.",
+  "name": "MDX POOL - 8Ball Pool",
+  "short_name": "MDX POOL",
+  "description": "MDX POOL est un jeu de billard américain 8 Ball Pool avec des graphismes réalistes, une physique fluide et une intelligence artificielle.",
   "lang": "fr",
-  "categories": [
-    "games"
+  "dir": "ltr",
+  "start_url": "/Mohammed/",
+  "scope": "/Mohammed/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "categories": ["games"],
+  "icons": [
+    {
+      "src": "./launchericon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "./launchericon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./launchericon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
